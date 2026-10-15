@@ -1,0 +1,13 @@
+Compound,Replica,Favoured,Allowed,Disallowed,Disallowed Residues
+IMPHY003917 (wild),Rep 1,91.88,5,3.12,"Gly121, Gly135, Asp139, Gly246, Gly254, Gly257, Gly271, Lys341, Gly345, Gly402, Ser403, Gly439, Gly487, Gly520, Gly542, Thr582, Lys604, Gly611, Met641, Gly660"
+IMPHY003917 (wild),Rep 2,91.72,5.62,2.66,"Arg65, Gly121, Gly135, Asp139, Asn159, Gly246, Gly254, Gly271, Gly345, Gly402, Ser403, Gly439, Gly451, Gly487, Gly489, Gly640, Gly660"
+IMPHY003917 (wild),Rep 3,92.19,5.16,2.66,"Asp139, Gly172, Gly246, Gly254, Lys341, Gly345, Gly402, Ser403, Gly431, Gly439, Gly451, Gly520, Thr582, Gly596, Asp635, Gly640, Gly660"
+IMPHY003917 (mutated),Rep 1,91.88,6.41,1.72,"Asp139, Gly246, Gly282, Gly345, Gly402, Ser403, Gly439, Gly451, Gly542, Gly596, Gly640"
+IMPHY003917 (mutated),Rep 2,90.78,6.88,2.34,"Tyr46, Tyr51, Lys90, Asn159, Gly246, Gly254, Gly345, Gly355, Gly402, Ser403, Gly431, Gly439, Asn505, Gly596, Gly599"
+IMPHY003917 (mutated),Rep 3,90.78,6.41,2.81,"Gly106, Gly135, Gly166, Gly246, Gly282, Ser403, Thr404, Gly429, Gly439, Gly451, Ser476, Gly487, Gly489, Thr582, Gly599, Gly611, Gly640, Met641"
+IMPHY011874 (wild),Rep 1,91.41,5.78,2.81,"Gly121, Asp139, Lys180, Gly246, Lys273, His311, Asn338, Gly374, Gly402, Ser403, Lys417, Gly439, Gly487, Asn505, Gly520, Asn561, Gly611, Gly640"
+IMPHY011874 (wild),Rep 2,92.81,5.31,1.88,"Gly246, Asn338, Lys341, Tyr369, Gly402, Ser403, Gly439, Gly489, Gly520, Gln577, Gly596, Gly640"
+IMPHY011874 (wild),Rep 3,93.12,4.69,2.19,"Gly246, Gly254, Asp288, Gly402, Ser403, Gly439, Gly451, Leu455, Ser476, Ser494, Gly520, Gly596, Gly611, Gly640"
+IMPHY011874 (mutated),Rep 1,91.09,5.62,3.28,"Lys40, Tyr51, Pro134, Asn159, Gly246, Gly271, Lys341, Gly345, Met375, Gly402, Ser403, Gly439, Gly451, Gly487, Gly489, Asn505, Gly520, Lys565, Thr582, Gly596, Gly611"
+IMPHY011874 (mutated),Rep 2,90.94,6.88,2.19,"Lys90, Gly106, Gly121, Asp139, Gly246, Gly254, Gly345, Gly374, Gly402, Ser403, Gly431, Gly520, Gly596, Gly640"
+IMPHY011874 (mutated),Rep 3,92.19,5.94,1.88,"Gly106, Gly135, Asp139, Gly246, Gly282, Glu389, Gly402, Gly439, Gly489, Gly520, Asn561, Thr582"
