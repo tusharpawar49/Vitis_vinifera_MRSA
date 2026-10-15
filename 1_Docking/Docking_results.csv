@@ -1,0 +1,17 @@
+Ligand,Mode,Type of interaction,Amino acids involved
+IMPHY003917,Mutated,Conventional Hydrogen Bond,"ASN464, SER598, GLU460, MET641"
+IMPHY003917,Mutated,Pi-Pi Stacked,TYR446
+IMPHY003917,Mutated,Pi-Alkyl,"TYR446, MET641"
+IMPHY003917,Mutated,Unfavorable Acceptor-Acceptor,THR600
+IMPHY011874,Mutated,Conventional Hydrogen Bond,"ARG445, SER462, GLU602, ASN464, SER403, TYR519"
+IMPHY011874,Mutated,Carbon Hydrogen Bond,GLY402
+IMPHY011874,Mutated,Unfavorable Donor-Donor,"SER462, SER403"
+IMPHY011874,Mutated,Pi-Alkyl,ALA601
+IMPHY003917,Wild,Conventional Hydrogen Bond,"SER403, TYR519, ASN464, THR444, SER461, SER643"
+IMPHY003917,Wild,Carbon Hydrogen Bond,GLY402
+IMPHY003917,Wild,Pi-Anion,GLU602
+IMPHY003917,Wild,Pi-Pi Stacked,TYR446
+IMPHY003917,Wild,Pi-Alkyl,"ALA601, ALA642, MET641, TYR446"
+IMPHY011874,Wild,Conventional Hydrogen Bond,"GLU602, SER403, ASN464, SER462"
+IMPHY011874,Wild,Unfavorable Donor-Donor,SER462
+IMPHY011874,Wild,Pi-Alkyl,ALA601
